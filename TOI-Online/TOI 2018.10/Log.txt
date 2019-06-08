@@ -1,0 +1,12 @@
+1. Sum (測機題)
+
+2. Sphinx
+50/100
+紀錄Prefix長度
+子題3 一個TLE (可能是使用stringstream)
+
+3. Primes
+100/100
+埃氏篩+前驟和
+
+*150/200*
